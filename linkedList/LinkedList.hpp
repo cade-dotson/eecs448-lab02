@@ -129,7 +129,10 @@ bool LinkedList<T>::removeBack()
 	/** TODO
 		Fix this method
 	*/
-
+while (1)
+	{
+		
+	}
 	return(isRemoved);
 }
 
