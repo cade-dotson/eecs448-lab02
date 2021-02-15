@@ -509,9 +509,5 @@ bool Test_LinkedList::test18()
 	}
 
 	printPassFail(isPassed);
-	while(1)
-	{
-		
-	}
 	return (isPassed);
 }
